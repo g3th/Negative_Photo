@@ -6,7 +6,7 @@ Use an existing color image to create a negative copy, by launching the program 
 
 How to compile on terminal:
 
-```kotlinc negative.kt --include-runtime -d negative.jar```
+```kotlinc negative.kt -include-runtime -d negative.jar```
 
 How to launch:
 

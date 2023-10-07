@@ -1,5 +1,5 @@
 # Negative Photo
-## Negatvie Photo creation with command line arguments
+## Negative Photo creation with command line arguments
 ### Create a Negative photo using Kotlin and Java.awt library
 
 Use an existing color image to create a negative copy, by launching the program with the appropriate command line arguments. This is a small part of the 'Seam Carving' Project on Hyperskill.
